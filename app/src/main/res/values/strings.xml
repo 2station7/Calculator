@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="divided_zero">Division by zero</string>
+    <string name="null_data">Empty fields</string>
+    <string name="wrong_format">Incorrect input data</string>
+    <string name="wrong_operation">Incorrect input operation</string>
+    <string name="input_first">Input first number</string>
+    <string name="input_second">Input second number</string>
+    <string name="input_operation">Input operation</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Result</string>
+
+</resources>

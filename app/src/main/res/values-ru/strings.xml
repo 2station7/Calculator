@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="divided_zero">Деление на ноль</string>
+    <string name="null_data">Пустые поля</string>
+    <string name="wrong_format">Некорректные значения</string>
+    <string name="wrong_operation">Некорректная операция</string>
+    <string name="input_first">Введите первое число</string>
+    <string name="input_second">Введите второе число</string>
+    <string name="input_operation">Введите операция</string>
+    <string name="calculate">Расчет</string>
+    <string name="result">Результат</string>
+</resources>
