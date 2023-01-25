@@ -68,7 +68,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             tvResultText.setText(R.string.wrong_format);
             return;
         }
-        if(correctOperation)
+        if(correctOperation){
             tvResultText.setText(num1 + "" + operation + "" + num2 + "=" + result);
         }
         else{
